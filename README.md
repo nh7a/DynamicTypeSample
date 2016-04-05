@@ -1,0 +1,2 @@
+# DynamicTypeSample
+Dynamic Type sample
